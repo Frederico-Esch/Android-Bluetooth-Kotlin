@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2500d7</color>
+    <color name="colorPrimaryDark">#00005B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="corDoTexto">#055dff</color>
+    <color name="trasDoDialog">#cccccc</color>
+    <color name="dialogoTexto">#002669</color>
+    <color name="preto">#000000</color>
+    <color name="status_des">#df0000</color>
+    <color name="status_con">#00df00</color>
+</resources>

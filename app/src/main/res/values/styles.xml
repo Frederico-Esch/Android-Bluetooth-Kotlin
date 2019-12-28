@@ -1,0 +1,21 @@
+<resources tools:targetApi="28" xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+    <style name="DialogoNovo" parent="android:Theme.DeviceDefault.Light.Dialog">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="android:colorBackground">@color/trasDoDialog</item>
+        <item name="android:textColor">@color/corDoTexto</item>
+        <item name="android:headerBackground">@color/trasDoDialog</item>
+        <item name="android:fontFamily">sans-serif-light</item>
+        <item name="android:colorAccent">@color/trasDoDialog</item>
+        <item name="android:layout_marginBottom">10sp</item>
+    </style>
+
+</resources>
